@@ -5,6 +5,7 @@ namespace DevelopersHub.ClashOfWhatecer
     using UnityEngine;
     using TMPro;
     using UnityEngine.UI;
+    using UnityEngine.SceneManagement;
 
     public class UI_Main : MonoBehaviour
     {
@@ -132,9 +133,12 @@ namespace DevelopersHub.ClashOfWhatecer
 
         private void BattleButtonClicked()
         {
-            SoundManager.instanse.PlaySound(SoundManager.instanse.buttonClickSound);
-            UI_Search.instanse.SetStatus(true);
-            SetStatus(false);
+            SceneManager.LoadScene("MapScenes");
+
+            // SoundManager.instanse.PlaySound(SoundManager.instanse.buttonClickSound);
+            // UI_Search.instanse.SetStatus(true);
+            // SetStatus(false);
+
         }
 
         private void OnLeave()
