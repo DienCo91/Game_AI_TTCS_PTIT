@@ -372,7 +372,8 @@
             float loadingTimer = Time.realtimeSinceStartup;
             yield return new WaitForEndOfFrame();
             bool done = false;
-            AsyncOperation async = SceneManager.LoadSceneAsync(gameSceneIndex);
+            // AsyncOperation async = SceneManager.LoadSceneAsync(gameSceneIndex);
+            AsyncOperation async = SceneManager.LoadSceneAsync("GameCOC");
             async.allowSceneActivation = false;
             while (!async.isDone && !done)
             {

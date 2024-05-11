@@ -157,21 +157,24 @@
                                     break;
                                 }
                             }
-                            if(!versionValid)
-                            {
-                                switch (Language.instanse.language)
-                                {
-                                    case Language.LanguageID.persian:
-                                        MessageBox.Open(1, 0.9f, false, MessageResponded, new string[] { "این ورژن منقضی شده. لطفاً ورژن جدید بازی را دانلود کنید." }, new string[] { "خروج" });
-                                        break;
-                                    default:
-                                        MessageBox.Open(1, 0.9f, false, MessageResponded, new string[] { "This version is expired. Please download the new version of the game." }, new string[] { "Exit" });
-                                        break;
-                                }
-                            }
-                            else
-                            {
-                                if(isThereNewerVersion)
+                            // if(!versionValid)
+                            // {
+                            //     switch (Language.instanse.language)
+                            //     {
+                            //         case Language.LanguageID.persian:
+                            //             MessageBox.Open(1, 0.9f, false, MessageResponded, new string[] { "این ورژن منقضی شده. لطفاً ورژن جدید بازی را دانلود کنید." }, new string[] { "خروج" });
+                            //             break;
+                            //         default:
+                            //             MessageBox.Open(1, 0.9f, false, MessageResponded, new string[] { "This version is expired. Please download the new version of the game." }, new string[] { "Exit" });
+                            //             break;
+                            //     }
+                            // }
+                            // else
+                            // {
+                                
+                            // }
+
+                            if(isThereNewerVersion)
                                 {
                                     /*
                                     switch (Language.instanse.language)
@@ -190,7 +193,6 @@
                                 timer = 0;
                                 PlayerPrefs.SetString(password_key, initializationData.password);
                                 SendSyncRequest();
-                            }
                         }
                         else
                         {

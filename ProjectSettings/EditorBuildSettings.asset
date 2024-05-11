@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Chess/Assets/Scenes/Game.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/COC/Assets/Scenes/GameCOC.unity
+    guid: 40651738173961f47a1c506c0ce15d11
+  - enabled: 1
     path: Assets/O_an_quan/Scenes/OAnQuanScene.unity
     guid: 670b8aed46695ad45a79a1fdee38849b
   - enabled: 1
@@ -54,6 +57,6 @@ EditorBuildSettings:
     path: Assets/Quizz/Assets/Scenes/GameQuizz.unity
     guid: 9bd9adc43a7454e479a8f1f05d75c434
   - enabled: 1
-    path: Assets/COC/Assets/Scenes/GameCOC.unity
-    guid: 40651738173961f47a1c506c0ce15d11
+    path: Assets/COC/Assets/Scenes/Start.unity
+    guid: 6685aabbcdc59ee438c044cddb782fbb
   m_configObjects: {}
