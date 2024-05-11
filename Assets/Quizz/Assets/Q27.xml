@@ -2,22 +2,22 @@
 <Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Questions>
         <Question>
-            <Info>1. Núi nào ở Cao Bằng được mệnh danh là "nóc nhà Đông Dương"?</Info>
+            <Info>Biệt danh nào được du khách ưu ái dành cho Thành phố Hồ Chí Minh?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Phia Oắc</Info>
+                    <Info>Hòn ngọc Viễn Đông</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Núi Lục Nam</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. Núi Mẫu Sơn</Info>
+                    <Info>Thành phố không ngủ</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Núi Ngọc Rồng</Info>
+                    <Info>Sài Gòn hoa lệ</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Thành phố mang tên Bác</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -27,22 +27,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>2. Di tích lịch sử nào ở Cao Bằng được UNESCO công nhận là Di sản văn hóa thế giới?</Info>
+            <Info>Địa danh nào là biểu tượng của Thành phố Hồ Chí Minh?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Khu di tích Pác Bó</Info>
+                    <Info>Nhà hát Lớn</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Chợ Bến Thành</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Khu di tích ATK Định Hóa</Info>
+                    <Info>Bưu điện Trung tâm</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Khu di tích Tân Trào</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. Khu di tích Chiến trường Đồng Cam</Info>
+                    <Info>Chùa Bửu Long</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -52,22 +52,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>3. Cao Bằng nổi tiếng với đặc sản nào?</Info>
+            <Info>Con đường nào sôi động và nhộn nhịp nhất Thành phố Hồ Chí Minh?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Bánh cuốn Cao Bằng</Info>
+                    <Info>Nguyễn Huệ</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Phở Cao Bằng</Info>
+                    <Info>Lê Duẩn</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Bánh áp chao</Info>
+                    <Info>Đồng Khởi</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Bánh chưng gật</Info>
+                    <Info>Phạm Ngũ Lão</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -77,22 +77,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>4. Lễ hội truyền thống độc đáo nào diễn ra hàng năm tại Cao Bằng thu hút đông đảo du khách?</Info>
+            <Info>Món ăn nào là đặc sản trứ danh của Thành phố Hồ Chí Minh?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Lễ hội Lồng Tông</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. Lễ hội Đền Mẫu Đồng Đăng</Info>
+                    <Info>Phở</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Lễ hội Chùa Hang</Info>
+                    <Info>Bánh mì</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Lễ hội Hoa Tam Giác Mạch</Info>
+                    <Info>Bún bò Huế</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Cơm tấm</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -102,22 +102,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>5. Cao Bằng có bao nhiêu dân tộc sinh sống?</Info>
+            <Info>Khu vui chơi giải trí nào thu hút đông đảo du khách nhất Thành phố Hồ Chí Minh?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. 6</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. 8</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. 10</Info>
+                    <Info>Suối Tiên</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. 12</Info>
+                    <Info>Đầm Sen</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Vincom Center</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Khu du lịch Suối Tiên</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -127,22 +127,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>6. Cao Bằng có địa hình như thế nào?</Info>
+            <Info>Bảo tàng nào lưu giữ những hiện vật lịch sử quý giá nhất Thành phố Hồ Chí Minh?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Đồng bằng</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. Núi cao</Info>
+                    <Info>Bảo tàng Chứng tích Chiến tranh</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Bờ biển</Info>
+                    <Info>Bảo tàng Lịch sử Quốc gia</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Núi xen kẽ đồng bằng</Info>
+                    <Info>Bảo tàng Mỹ thuật</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Bảo tàng Chứng tích Chiến tranh</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -152,22 +152,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>7. Cao Bằng giáp ranh với những tỉnh thành nào?</Info>
+            <Info>Công trình kiến trúc nào mang đậm dấu ấn Pháp thuộc tại Thành phố Hồ Chí Minh?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Bắc Kạn, Thái Nguyên, Lạng Sơn, Quảng Ninh</Info>
+                    <Info>Nhà thờ Đức Bà</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Tuyên Quang, Hà Giang, Yên Bái, Lào Cai</Info>
+                    <Info>Bưu điện Trung tâm</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Phú Thọ, Vĩnh Phúc, Hòa Bình, Ninh Bình</Info>
+                    <Info>Chợ Bến Thành</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình</Info>
+                    <Info>Nhà hát Lớn</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -177,22 +177,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>8. Cao Bằng có sông nào chảy qua?</Info>
+            <Info>Khu phố nào được mệnh danh là "thiên đường mua sắm" tại Thành phố Hồ Chí Minh?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Sông Hồng</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. Sông Mã</Info>
+                    <Info>Chợ Bến Thành</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Sông Cả</Info>
+                    <Info>Nguyễn Huệ</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Sông Gianh</Info>
+                    <Info>Đồng Khởi</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Bến Thành</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -202,22 +202,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>9. Danh nhân nào nổi tiếng gắn liền với mảnh đất Cao Bằng?</Info>
+            <Info>Loại hình nghệ thuật truyền thống nào nổi tiếng nhất Thành phố Hồ Chí Minh?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Chủ tịch Hồ Chí Minh</Info>
+                    <Info>Hát bội</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Đại tướng Võ Nguyên Giáp</Info>
+                    <Info>Tuồng</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Nhà thơ Tố Hữu</Info>
+                    <Info>Múa rối nước</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Nhà văn Nguyễn Tuân</Info>
+                    <Info>Hát bội</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -227,22 +227,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>10. Cao Bằng có bao nhiêu huyện, thành phố?</Info>
+            <Info>Sự kiện nào diễn ra vào năm 1975 đã ghi dấu ấn lịch sử tại Thành phố Hồ Chí Minh?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. 8</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. 10</Info>
+                    <Info>Giải phóng Sài Gòn</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. 12</Info>
+                    <Info>Thống nhất đất nước</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. 14</Info>
+                    <Info>Chiến thắng Điện Biên Phủ</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Giải phóng Sài Gòn</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>

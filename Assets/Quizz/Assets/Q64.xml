@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Questions>
+        <Question>
+            <Info>Vị trí địa lý của Quần đảo Hoàng Sa?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Vịnh Bắc Bộ</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Biển Đông</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Vịnh Thái Lan</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Biển Sulu</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Quần đảo Hoàng Sa bao gồm bao nhiêu đảo và bãi ngầm?</Info>
+            <Answers>
+                <Answer>
+                    <Info>10</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>20</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>30</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>40</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Tên đảo nào là lớn nhất trong Quần đảo Hoàng Sa?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Đảo Phú Lâm</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Đảo An Bang</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Đảo Hoàng Sa</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Đảo Bãi Ba</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Quần đảo Hoàng Sa được phát hiện và ghi nhận chủ quyền bởi Việt Nam từ thời nào?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Thời vua Lý Thái Tổ</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Thời vua Trần Nhân Tông</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Thời vua Lê Thánh Tông</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Thời vua Nguyễn Ánh</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Bằng chứng nào khẳng định chủ quyền của Việt Nam đối với Quần đảo Hoàng Sa?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Biên niên sử</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Bản đồ</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Cả A và B</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Pháp lệnh</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Quần đảo Hoàng Sa có ý nghĩa gì đối với Việt Nam?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Về kinh tế</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Về quốc phòng</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Cả A và B</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Về văn hóa</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Lễ hội nào được tổ chức thường niên để tưởng nhớ và tri ân những người đã hy sinh cho Quần đảo Hoàng Sa?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Lễ hội Cầu Ngư</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Lễ hội Katê</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Lễ hội tưởng niệm Hoàng Sa</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Lễ hội đền Kỳ Cùng</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Loại hình di sản nào được công nhận cho Quần đảo Hoàng Sa?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Di sản văn hóa phi vật thể</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Di sản thiên nhiên thế giới</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Cả A và B</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Di sản văn hóa thế giới</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Biểu tượng nào thể hiện chủ quyền của Việt Nam trên Quần đảo Hoàng Sa?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Cột mốc chủ quyền</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Hải đăng</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Cả A và B</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Cờ đỏ sao vàng</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Quần đảo Hoàng Sa có tiềm năng phát triển gì?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Du lịch</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Khai thác tài nguyên biển</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Cả A và B</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Nông nghiệp</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Mối đe dọa nào đang hiện hữu đối với Quần đảo Hoàng Sa?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Biến đổi khí hậu</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Tranh chấp chủ quyền</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Cả A và B</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Ô nhiễm môi trường</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Việt Nam đã và đang thực hiện những biện pháp nào để bảo vệ chủ quyền Quần đảo Hoàng Sa?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Tăng cường quốc phòng</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Tuyên truyền giáo dục</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Kích thích kinh tế</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Hợp tác quốc tế</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Trách nhiệm của mỗi cá nhân trong việc bảo vệ chủ quyền Quần đảo Hoàng Sa?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Nâng cao hiểu biết về chủ quyền biển đảo</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Tham gia các hoạt động bảo vệ biển đảo</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Cả A và B</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Góp phần phát triển kinh tế biển</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Tên bài hát nào ca ngợi tình yêu quê hương, đất nước và khẳng định chủ quyền biển đảo Việt Nam?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Hoàng Sa Trường Sa của tôi</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Tiến lên đoàn viên</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Cánh chim báo tin vui</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Nổi trống lên</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+    </Questions>
+</Data>

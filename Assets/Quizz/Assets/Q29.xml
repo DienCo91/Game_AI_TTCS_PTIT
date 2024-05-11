@@ -2,22 +2,22 @@
 <Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Questions>
         <Question>
-            <Info>1. Núi nào ở Cao Bằng được mệnh danh là "nóc nhà Đông Dương"?</Info>
+            <Info>Biệt danh nào được đặt cho Bình Dương?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Phia Oắc</Info>
+                    <Info>Thủ phủ Dệt may</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Núi Lục Nam</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. Núi Mẫu Sơn</Info>
+                    <Info>Thành phố trẻ</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Núi Ngọc Rồng</Info>
+                    <Info>Thủ phủ Nước mắm</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Đất Thủ</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -27,22 +27,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>2. Di tích lịch sử nào ở Cao Bằng được UNESCO công nhận là Di sản văn hóa thế giới?</Info>
+            <Info>Nơi nào ở Bình Dương được mệnh danh là "Đà Lạt thu nhỏ"?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Khu di tích Pác Bó</Info>
+                    <Info>Lái Thiêu</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Khu di tích ATK Định Hóa</Info>
+                    <Info>Dĩ An</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Khu di tích Tân Trào</Info>
+                    <Info>Thuận An</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Khu di tích Chiến trường Đồng Cam</Info>
+                    <Info>Bến Cát</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -52,22 +52,47 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>3. Cao Bằng nổi tiếng với đặc sản nào?</Info>
+            <Info>Khu du lịch nào ở Bình Dương thu hút du khách bởi vẻ đẹp hoang sơ và thơ mộng?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Bánh cuốn Cao Bằng</Info>
+                    <Info>Khu du lịch Suối Tiên</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Khu du lịch Đại Nam</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Khu du lịch Lái Thiêu</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Vườn quốc gia Cát Tiên</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Món ăn nào là đặc sản nổi tiếng nhất của Bình Dương?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Bánh canh Bến Cá</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Phở Cao Bằng</Info>
+                    <Info>Bún mắm</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Bánh áp chao</Info>
+                    <Info>Lẩu mắm</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Bánh chưng gật</Info>
+                    <Info>Nem nướng</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -77,22 +102,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>4. Lễ hội truyền thống độc đáo nào diễn ra hàng năm tại Cao Bằng thu hút đông đảo du khách?</Info>
+            <Info>Lễ hội nào được tổ chức vào tháng 8 âm lịch ở Bình Dương để tưởng nhớ các anh hùng dân tộc?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Lễ hội Lồng Tông</Info>
+                    <Info>Lễ hội hoa sen</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Lễ hội Đền Mẫu Đồng Đăng</Info>
+                    <Info>Lễ hội Bà Chúa Xứ</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Lễ hội Chùa Hang</Info>
+                    <Info>Lễ hội Dạ Quang</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Lễ hội Hoa Tam Giác Mạch</Info>
+                    <Info>Lễ hội Thánh Giuse</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -102,22 +127,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>5. Cao Bằng có bao nhiêu dân tộc sinh sống?</Info>
+            <Info>Tượng đài nào ở Bình Dương được xem là biểu tượng của thành phố?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. 6</Info>
+                    <Info>Tượng đài Chiến thắng</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. 8</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. 10</Info>
+                    <Info>Tượng đài Chủ tịch Hồ Chí Minh</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. 12</Info>
+                    <Info>Tượng đài Mẹ Việt Nam Anh Hùng</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Tượng đài Phật Quan Thế Âm</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -127,22 +152,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>6. Cao Bằng có địa hình như thế nào?</Info>
+            <Info>Khu vui chơi giải trí nào ở Bình Dương được mệnh danh là "Disneyland Việt Nam"?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Đồng bằng</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. Núi cao</Info>
+                    <Info>Khu du lịch Đại Nam</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Bờ biển</Info>
+                    <Info>Khu du lịch Suối Tiên</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Núi xen kẽ đồng bằng</Info>
+                    <Info>Vincom Mega Mall Thảo Điền</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Vincom Mega Mall Bình Dương</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -152,22 +177,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>7. Cao Bằng giáp ranh với những tỉnh thành nào?</Info>
+            <Info>Sân vận động nào ở Bình Dương là sân nhà của CLB Becamex Bình Dương?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Bắc Kạn, Thái Nguyên, Lạng Sơn, Quảng Ninh</Info>
+                    <Info>Sân vận động Gò Đậu</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Tuyên Quang, Hà Giang, Yên Bái, Lào Cai</Info>
+                    <Info>Sân vận động Tự Do</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Phú Thọ, Vĩnh Phúc, Hòa Bình, Ninh Bình</Info>
+                    <Info>Sân vận động Long An</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình</Info>
+                    <Info>Sân vận động Quốc gia Mỹ Đình</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -177,22 +202,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>8. Cao Bằng có sông nào chảy qua?</Info>
+            <Info>Đại học nào ở Bình Dương được đánh giá cao về chất lượng đào tạo?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Sông Hồng</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. Sông Mã</Info>
+                    <Info>Đại học Quốc tế Sài Gòn</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Sông Cả</Info>
+                    <Info>Đại học Thủ Dục</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Sông Gianh</Info>
+                    <Info>Đại học Fullbright</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Đại học Nguyễn Tất Thành</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -202,47 +227,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>9. Danh nhân nào nổi tiếng gắn liền với mảnh đất Cao Bằng?</Info>
+            <Info>Ngành công nghiệp nào đóng vai trò quan trọng nhất trong nền kinh tế của Bình Dương?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Chủ tịch Hồ Chí Minh</Info>
+                    <Info>Công nghiệp may mặc</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Đại tướng Võ Nguyên Giáp</Info>
+                    <Info>Công nghiệp chế biến thực phẩm</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Nhà thơ Tố Hữu</Info>
+                    <Info>Công nghiệp điện tử</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Nhà văn Nguyễn Tuân</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-            </Answers>
-            <UseTimer>true</UseTimer>
-            <Timer>25</Timer>
-            <Type>Single</Type>
-            <AddScore>100</AddScore>
-        </Question>
-        <Question>
-            <Info>10. Cao Bằng có bao nhiêu huyện, thành phố?</Info>
-            <Answers>
-                <Answer>
-                    <Info>A. 8</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. 10</Info>
-                    <IsCorrect>true</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. 12</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. 14</Info>
+                    <Info>Công nghiệp du lịch</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>

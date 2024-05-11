@@ -2,22 +2,22 @@
 <Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Questions>
         <Question>
-            <Info>1. Núi nào ở Cao Bằng được mệnh danh là "nóc nhà Đông Dương"?</Info>
+            <Info>1. Quê hương của Chủ tịch Hồ Chí Minh là ở xã nào, huyện nào của Nghệ An?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Phia Oắc</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. Núi Lục Nam</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. Núi Mẫu Sơn</Info>
+                    <Info>Nam Đàn</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Núi Ngọc Rồng</Info>
+                    <Info>Quỳnh Lưu</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Nghi Diên</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Yên Thành</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -27,22 +27,47 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>2. Di tích lịch sử nào ở Cao Bằng được UNESCO công nhận là Di sản văn hóa thế giới?</Info>
+            <Info>2. Nghệ An có di sản văn hóa thế giới nào được UNESCO công nhận?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Khu di tích Pác Bó</Info>
+                    <Info>Quần đảo Cát Bà</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Vịnh Hạ Long</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Khu di tích Cố đô Huế</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Thành nhà Hồ</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>3. Món ăn nào được xem là đặc sản nổi tiếng nhất của Nghệ An?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Bánh mướt</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Bánh bèo</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Khu di tích ATK Định Hóa</Info>
+                    <Info>Bánh chưng</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Khu di tích Tân Trào</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. Khu di tích Chiến trường Đồng Cam</Info>
+                    <Info>Cháo canh</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -52,22 +77,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>3. Cao Bằng nổi tiếng với đặc sản nào?</Info>
+            <Info>4. Nghệ An có ngọn núi nào được mệnh danh là "nóc nhà xứ Nghệ"?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Bánh cuốn Cao Bằng</Info>
+                    <Info>Pù Mát</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Phở Cao Bằng</Info>
+                    <Info>Pu Hoạt</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Bánh áp chao</Info>
+                    <Info>Kẻ Gỗ</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Bánh chưng gật</Info>
+                    <Info>Phu Hoà</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -77,22 +102,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>4. Lễ hội truyền thống độc đáo nào diễn ra hàng năm tại Cao Bằng thu hút đông đảo du khách?</Info>
+            <Info>5. Bãi biển nào ở Nghệ An được du khách yêu thích bởi vẻ đẹp hoang sơ, thơ mộng?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Lễ hội Lồng Tông</Info>
+                    <Info>Cửa Lò</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Lễ hội Đền Mẫu Đồng Đăng</Info>
+                    <Info>Quỳnh Bảng</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Lễ hội Chùa Hang</Info>
+                    <Info>Quỳnh Lưu</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Lễ hội Hoa Tam Giác Mạch</Info>
+                    <Info>Diễn Lâm</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -102,22 +127,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>5. Cao Bằng có bao nhiêu dân tộc sinh sống?</Info>
+            <Info>6. Lễ hội nào được xem là lớn nhất và quan trọng nhất ở Nghệ An?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. 6</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. 8</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. 10</Info>
+                    <Info>Lễ hội đền Cuông</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. 12</Info>
+                    <Info>Lễ hội đền Củi</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Lễ hội Chùa Hương</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Lễ hội Quỳnh Lưu</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -127,22 +152,47 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>6. Cao Bằng có địa hình như thế nào?</Info>
+            <Info>7. Nghệ An có làng nghề truyền thống nào nổi tiếng về sản xuất đồ gốm sứ?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Đồng bằng</Info>
+                    <Info>Bát Tràng</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Núi cao</Info>
+                    <Info>Chu Đậu</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Phù Lãng</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Kim Lan</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>8. Nghệ An có di tích lịch sử nào gắn liền với cuộc khởi nghĩa Lam Sơn?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Lam Kinh</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Bờ biển</Info>
+                    <Info>Chi Lăng</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Núi xen kẽ đồng bằng</Info>
+                    <Info>Xương Giang</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Tốt Động - Chúc Động</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -152,22 +202,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>7. Cao Bằng giáp ranh với những tỉnh thành nào?</Info>
+            <Info>9. Nghệ An có danh nhân văn hóa nào được UNESCO vinh danh là Danh nhân thế giới?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Bắc Kạn, Thái Nguyên, Lạng Sơn, Quảng Ninh</Info>
+                    <Info>Nguyễn Trãi</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Nguyễn Du</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Tuyên Quang, Hà Giang, Yên Bái, Lào Cai</Info>
+                    <Info>Hồ Xuân Hương</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Phú Thọ, Vĩnh Phúc, Hòa Bình, Ninh Bình</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình</Info>
+                    <Info>Phan Bội Châu</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -177,72 +227,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>8. Cao Bằng có sông nào chảy qua?</Info>
+            <Info>10. Nghệ An có đội bóng đá nào đang thi đấu tại Giải bóng đá vô địch quốc gia Việt Nam?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Sông Hồng</Info>
+                    <Info>SLNA</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Sông Mã</Info>
+                    <Info>Sông Lam Nghệ An</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Sông Cả</Info>
+                    <Info>CLB Hà Nội</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Sông Gianh</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-            </Answers>
-            <UseTimer>true</UseTimer>
-            <Timer>25</Timer>
-            <Type>Single</Type>
-            <AddScore>100</AddScore>
-        </Question>
-        <Question>
-            <Info>9. Danh nhân nào nổi tiếng gắn liền với mảnh đất Cao Bằng?</Info>
-            <Answers>
-                <Answer>
-                    <Info>A. Chủ tịch Hồ Chí Minh</Info>
-                    <IsCorrect>true</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. Đại tướng Võ Nguyên Giáp</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. Nhà thơ Tố Hữu</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. Nhà văn Nguyễn Tuân</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-            </Answers>
-            <UseTimer>true</UseTimer>
-            <Timer>25</Timer>
-            <Type>Single</Type>
-            <AddScore>100</AddScore>
-        </Question>
-        <Question>
-            <Info>10. Cao Bằng có bao nhiêu huyện, thành phố?</Info>
-            <Answers>
-                <Answer>
-                    <Info>A. 8</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. 10</Info>
-                    <IsCorrect>true</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. 12</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. 14</Info>
+                    <Info>Becamex Bình Dương</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>

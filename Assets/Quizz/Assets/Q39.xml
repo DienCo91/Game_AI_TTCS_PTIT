@@ -2,22 +2,22 @@
 <Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Questions>
         <Question>
-            <Info>1. Núi nào ở Cao Bằng được mệnh danh là "nóc nhà Đông Dương"?</Info>
+            <Info>Biệt danh nào được đặt cho Bến Tre bởi sự trù phú của cây dừa?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Phia Oắc</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. Núi Lục Nam</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. Núi Mẫu Sơn</Info>
+                    <Info>Vùng đất sen hồng</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Núi Ngọc Rồng</Info>
+                    <Info>Xứ sở miệt vườn</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Vùng đất sôi động</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Xứ Dừa</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -27,22 +27,47 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>2. Di tích lịch sử nào ở Cao Bằng được UNESCO công nhận là Di sản văn hóa thế giới?</Info>
+            <Info>Danh nhân nào được mệnh danh là "Ông tổ nghề dừa" ở Bến Tre?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Khu di tích Pác Bó</Info>
+                    <Info>Trạng Trình Nguyễn Bỉnh Khiêm</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Nhà thơ Nguyễn Trãi</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Đại tướng Võ Nguyên Giáp</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Huỳnh Phú Sổ</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Di tích lịch sử nào tại Bến Tre được công nhận là Di tích Quốc gia đặc biệt?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Chùa Linh Sơn</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Khu lưu niệm Nguyễn Đình Chiểu</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Khu di tích ATK Định Hóa</Info>
+                    <Info>Căn cứ Đồng Khởi</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Khu di tích Tân Trào</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. Khu di tích Chiến trường Đồng Cam</Info>
+                    <Info>Cầu Hàm Luông</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -52,22 +77,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>3. Cao Bằng nổi tiếng với đặc sản nào?</Info>
+            <Info>Làng nghề truyền thống nào nổi tiếng với sản phẩm bánh tráng đặc sản ở Bến Tre?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Bánh cuốn Cao Bằng</Info>
+                    <Info>Làng nghề Tân Hương</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Phở Cao Bằng</Info>
+                    <Info>Làng nghề Phú Đa</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Bánh áp chao</Info>
+                    <Info>Làng nghề An Khê</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Bánh chưng gật</Info>
+                    <Info>Làng nghề Trà Quế</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -77,22 +102,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>4. Lễ hội truyền thống độc đáo nào diễn ra hàng năm tại Cao Bằng thu hút đông đảo du khách?</Info>
+            <Info>Loại trái cây nào được mệnh danh là "Vua trái cây" và được trồng nhiều nhất ở Bến Tre?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Lễ hội Lồng Tông</Info>
+                    <Info>Sầu riêng</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Lễ hội Đền Mẫu Đồng Đăng</Info>
+                    <Info>Dừa</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Lễ hội Chùa Hang</Info>
+                    <Info>Xoài</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Lễ hội Hoa Tam Giác Mạch</Info>
+                    <Info>Măng cụt</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -102,22 +127,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>5. Cao Bằng có bao nhiêu dân tộc sinh sống?</Info>
+            <Info>Tên gọi nào được người Khmer đặt cho Bến Tre trước đây bởi sự phong phú của các loài cá?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. 6</Info>
+                    <Info>Sóc Trăng</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. 8</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. 10</Info>
+                    <Info>Sóc Treay</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. 12</Info>
+                    <Info>Đồng Tháp Mười</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Cần Thơ</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -127,22 +152,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>6. Cao Bằng có địa hình như thế nào?</Info>
+            <Info>Vườn chim nào được mệnh danh là "Thiên đường chim" tại Bến Tre?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Đồng bằng</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. Núi cao</Info>
+                    <Info>Vườn chim Tân Lập</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Bờ biển</Info>
+                    <Info>Vườn chim Tràm Chim</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Núi xen kẽ đồng bằng</Info>
+                    <Info>Vườn chim Cần Giờ</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Vườn chim Bảy Mẫu</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -152,22 +177,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>7. Cao Bằng giáp ranh với những tỉnh thành nào?</Info>
+            <Info>Lễ hội nào thu hút du khách đến Bến Tre vào tháng 8 âm lịch hàng năm?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Bắc Kạn, Thái Nguyên, Lạng Sơn, Quảng Ninh</Info>
+                    <Info>Lễ hội Dạ hội Phố Cổ</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Lễ hội Đua ghe truyền thống</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Tuyên Quang, Hà Giang, Yên Bái, Lào Cai</Info>
+                    <Info>Lễ hội Bánh xèo</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Phú Thọ, Vĩnh Phúc, Hòa Bình, Ninh Bình</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình</Info>
+                    <Info>Lễ hội Nghinh Ông</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -177,22 +202,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>8. Cao Bằng có sông nào chảy qua?</Info>
+            <Info>Điểm du lịch sinh thái nào nổi tiếng với hệ sinh thái rừng ngập mặn đa dạng ở Bến Tre?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Sông Hồng</Info>
+                    <Info>Khu du lịch sinh thái Cồn Quy</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Sông Mã</Info>
+                    <Info>Khu du lịch sinh thái Khóm Tràm</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Sông Cả</Info>
+                    <Info>Khu du lịch sinh thái Mỏ Cày</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Sông Gianh</Info>
+                    <Info>Khu du lịch sinh thái Đồng Tháp Mười</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -202,47 +227,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>9. Danh nhân nào nổi tiếng gắn liền với mảnh đất Cao Bằng?</Info>
+            <Info>Món ăn nào được xem là đặc sản trứ danh của Bến Tre với hương vị thơm ngon khó cưỡng?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Chủ tịch Hồ Chí Minh</Info>
+                    <Info>Bánh canh Bến Tre</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Đại tướng Võ Nguyên Giáp</Info>
+                    <Info>Lẩu mắm Bến Tre</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Nhà thơ Tố Hữu</Info>
+                    <Info>Bánh tráng Bến Tre</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Nhà văn Nguyễn Tuân</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-            </Answers>
-            <UseTimer>true</UseTimer>
-            <Timer>25</Timer>
-            <Type>Single</Type>
-            <AddScore>100</AddScore>
-        </Question>
-        <Question>
-            <Info>10. Cao Bằng có bao nhiêu huyện, thành phố?</Info>
-            <Answers>
-                <Answer>
-                    <Info>A. 8</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. 10</Info>
-                    <IsCorrect>true</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. 12</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. 14</Info>
+                    <Info>Dừa Bến Tre</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>

@@ -2,22 +2,22 @@
 <Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Questions>
         <Question>
-            <Info>1. Núi nào ở Cao Bằng được mệnh danh là "nóc nhà Đông Dương"?</Info>
+            <Info>Biểu tượng nào gắn liền với hình ảnh của Huế?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Phia Oắc</Info>
+                    <Info>Cầu Trường Tiền</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Núi Lục Nam</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. Núi Mẫu Sơn</Info>
+                    <Info>Đại Nội Huế</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Núi Ngọc Rồng</Info>
+                    <Info>Chùa Thiên Mụ</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Núi Ngự Bình</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -27,22 +27,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>2. Di tích lịch sử nào ở Cao Bằng được UNESCO công nhận là Di sản văn hóa thế giới?</Info>
+            <Info>Món ăn nào là đặc sản nổi tiếng nhất của Huế?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Khu di tích Pác Bó</Info>
+                    <Info>Bún bò Huế</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Khu di tích ATK Định Hóa</Info>
+                    <Info>Cơm hến</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Khu di tích Tân Trào</Info>
+                    <Info>Nem lụi</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Khu di tích Chiến trường Đồng Cam</Info>
+                    <Info>Bánh bèo nậm lọc</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -52,22 +52,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>3. Cao Bằng nổi tiếng với đặc sản nào?</Info>
+            <Info>Lễ hội truyền thống nào thu hút du khách nhất ở Huế?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Bánh cuốn Cao Bằng</Info>
+                    <Info>Festival Huế</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Phở Cao Bằng</Info>
+                    <Info>Tết Nguyên Đán</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Bánh áp chao</Info>
+                    <Info>Festival Áo Dài</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Bánh chưng gật</Info>
+                    <Info>Đại lễ tế đàn Nam Giao</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -77,22 +77,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>4. Lễ hội truyền thống độc đáo nào diễn ra hàng năm tại Cao Bằng thu hút đông đảo du khách?</Info>
+            <Info>Dòng sông nào chảy qua thành phố Huế?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Lễ hội Lồng Tông</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. Lễ hội Đền Mẫu Đồng Đăng</Info>
+                    <Info>Sông Hương</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Lễ hội Chùa Hang</Info>
+                    <Info>Sông Mã</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Lễ hội Hoa Tam Giác Mạch</Info>
+                    <Info>Sông Cái</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Sông Đồng Nai</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -102,22 +102,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>5. Cao Bằng có bao nhiêu dân tộc sinh sống?</Info>
+            <Info>Ngôi nhà nào được mệnh danh là "nơi ở sang trọng nhất Việt Nam"?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. 6</Info>
+                    <Info>Đại Nội Huế</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. 8</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. 10</Info>
+                    <Info>Kinh Thành Huế</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. 12</Info>
+                    <Info>Lăng Tự Đức</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Lăng Khải Định</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -127,22 +127,47 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>6. Cao Bằng có địa hình như thế nào?</Info>
+            <Info>Ai là vị vua cuối cùng của triều Nguyễn?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Đồng bằng</Info>
+                    <Info>Vua Bảo Đại</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Núi cao</Info>
+                    <Info>Vua Duy Tân</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Vua Thành Thái</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Vua Khải Định</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Núi nào được ví như "lá phổi xanh" của thành phố Huế?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Núi Ngự Bình</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Bờ biển</Info>
+                    <Info>Núi Bạch Mã</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Núi xen kẽ đồng bằng</Info>
+                    <Info>Núi Truồi</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Núi Erawan</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -152,22 +177,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>7. Cao Bằng giáp ranh với những tỉnh thành nào?</Info>
+            <Info>Chợ nào là chợ truyền thống lớn nhất ở Huế?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Bắc Kạn, Thái Nguyên, Lạng Sơn, Quảng Ninh</Info>
+                    <Info>Chợ Đông Ba</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Tuyên Quang, Hà Giang, Yên Bái, Lào Cai</Info>
+                    <Info>Chợ Ben Thành</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Phú Thọ, Vĩnh Phúc, Hòa Bình, Ninh Bình</Info>
+                    <Info>Chợ Bến Hải</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình</Info>
+                    <Info>Chợ Cồn</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -177,23 +202,23 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>8. Cao Bằng có sông nào chảy qua?</Info>
+            <Info>Loại hoa nào được xem là biểu tượng của thành phố Huế?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Sông Hồng</Info>
+                    <Info>Hoa sen</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Sông Mã</Info>
+                    <Info>Hoa súng</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Hoa mai</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Hoa lan</Info>
                     <IsCorrect>true</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. Sông Cả</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. Sông Gianh</Info>
-                    <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
             <UseTimer>true</UseTimer>
@@ -202,47 +227,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>9. Danh nhân nào nổi tiếng gắn liền với mảnh đất Cao Bằng?</Info>
+            <Info>Nhà thơ nào được mệnh danh là "ông hoàng thơ ca" của Việt Nam và có nhiều tác phẩm gắn liền với Huế?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Chủ tịch Hồ Chí Minh</Info>
+                    <Info>Nguyễn Du</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Đại tướng Võ Nguyên Giáp</Info>
+                    <Info>Hồ Xuân Hương</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Nhà thơ Tố Hữu</Info>
+                    <Info>Bà Huyện Thanh Quan</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Nhà văn Nguyễn Tuân</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-            </Answers>
-            <UseTimer>true</UseTimer>
-            <Timer>25</Timer>
-            <Type>Single</Type>
-            <AddScore>100</AddScore>
-        </Question>
-        <Question>
-            <Info>10. Cao Bằng có bao nhiêu huyện, thành phố?</Info>
-            <Answers>
-                <Answer>
-                    <Info>A. 8</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. 10</Info>
-                    <IsCorrect>true</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. 12</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. 14</Info>
+                    <Info>Tản Đà</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>

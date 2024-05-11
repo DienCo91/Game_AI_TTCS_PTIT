@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Questions>
+        <Question>
+            <Info>Quần đảo Trường Sa thuộc chủ quyền của quốc gia nào?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Trung Quốc</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Đài Loan</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Philippines</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Việt Nam</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Quần đảo Trường Sa bao gồm bao nhiêu đảo, đá, bãi ngầm?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Khoảng 100</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Hơn 200</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Gần 300</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Trên 400</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Đảo nào là đảo lớn nhất trong quần đảo Trường Sa?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Đảo Trường Sa Lớn</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Đảo Song Tử Tây</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Đảo Sinh Tồn</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Đảo Nam Yết</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Quần đảo Trường Sa được chia thành mấy cụm đảo?</Info>
+            <Answers>
+                <Answer>
+                    <Info>2</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>3</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>4</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>5</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Cụm đảo nào nằm ở vị trí trung tâm của quần đảo Trường Sa?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Cụm đảo Trường Sa</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Cụm đảo Nam Yết</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Cụm đảo Sinh Tồn</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Cụm đảo An Bang</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Cấu tạo địa chất chủ yếu của quần đảo Trường Sa là gì?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Núi lửa</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>San hô</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Vôi san hô</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Bùn</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Khí hậu chủ yếu của quần đảo Trường Sa là gì?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Nhiệt đới gió mùa</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Xích đạo</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Ôn đới</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Hàn đới</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Hệ sinh thái biển ở quần đảo Trường Sa có đặc điểm gì nổi bật?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Rạn san hô</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Rừng ngập mặn</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Cánh đồng lúa</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Sa mạc</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Quần đảo Trường Sa có ý nghĩa gì quan trọng đối với Việt Nam?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Về quốc phòng</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Về kinh tế</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Về văn hóa</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Tất cả các ý trên</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Việt Nam đã có những hành động nào để khẳng định chủ quyền đối với quần đảo Trường Sa?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Cử quân ra đóng giữ các đảo</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Gửi công hàm phản đối đến các nước có yêu sách phi pháp</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Tổ chức các hoạt động nghiên cứu khoa học</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Tất cả các ý trên</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Các nước nào có tranh chấp chủ quyền đối với quần đảo Trường Sa?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Trung Quốc</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Đài Loan</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Philippines</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Tất cả các ý trên</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Tổ chức nào đã ra phán quyết về vụ kiện Biển Đông giữa Philippines và Trung Quốc?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Tòa án Công lý Quốc tế</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Tòa án Hình sự Quốc tế</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Tổ chức Thương mại Thế giới</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Tòa án Trọng tài Thường trực</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Phán quyết của Tòa án Trọng tài Thường trực có nội dung gì?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Trung Quốc không có cơ sở pháp lý để yêu sách chủ quyền phi pháp "đường lưỡi bò"</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Philippines có chủ quyền đối với toàn bộ quần đảo Trường Sa</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Việt Nam không có chủ quyền đối với quần đảo Trường Sa</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Trung Quốc và Philippines có chủ quyền chung đối với quần đảo Trường Sa</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Việt Nam cần làm gì để bảo vệ chủ quyền đối với quần đảo Trường Sa?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Tăng cường tiềm lực quốc phòng</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Phát triển kinh tế biển</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Nâng cao nhận thức của người dân về biển đảo</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Tất cả các ý trên</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>Quần đảo Trường Sa là một phần lãnh thổ thiêng liêng không thể tách rời của Tổ quốc Việt Nam. Mỗi người dân Việt Nam cần có trách nhiệm gì để bảo vệ chủ quyền biển đảo?</Info>
+            <Answers>
+                <Answer>
+                    <Info>Tìm hiểu về chủ quyền biển đảo</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Tham gia các hoạt động bảo vệ biển đảo</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Góp phần xây dựng và phát triển đất nước</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Tất cả các ý trên</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+    </Questions>
+</Data>

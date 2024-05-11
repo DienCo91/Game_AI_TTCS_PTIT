@@ -2,22 +2,22 @@
 <Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Questions>
         <Question>
-            <Info>1. Núi nào ở Cao Bằng được mệnh danh là "nóc nhà Đông Dương"?</Info>
+            <Info>Địa danh nào gắn liền với chiến thắng vang dội của quân dân Việt Nam trong chiến dịch Điện Biên Phủ?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Phia Oắc</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. Núi Lục Nam</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. Núi Mẫu Sơn</Info>
+                    <Info>A. Mường Thanh</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Núi Ngọc Rồng</Info>
+                    <Info>B. Him Lam</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>C. Pha Din</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>D. Hồng Cúm</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -27,22 +27,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>2. Di tích lịch sử nào ở Cao Bằng được UNESCO công nhận là Di sản văn hóa thế giới?</Info>
+            <Info>Nơi nào được mệnh danh là "Tượng đài bất tử" của lòng yêu nước và ý chí quật cường?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Khu di tích Pác Bó</Info>
+                    <Info>A. Cánh đồng Mường Thanh</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>B. hầm Đờ Cát</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Khu di tích ATK Định Hóa</Info>
+                    <Info>C. A1</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Khu di tích Tân Trào</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. Khu di tích Chiến trường Đồng Cam</Info>
+                    <Info>D. Dốc Pha Din</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -52,22 +52,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>3. Cao Bằng nổi tiếng với đặc sản nào?</Info>
+            <Info>Ai là Đại tướng Tổng tư lệnh Quân đội Nhân dân Việt Nam, người đã lãnh đạo quân dân ta đi đến chiến thắng trong chiến dịch Điện Biên Phủ?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Bánh cuốn Cao Bằng</Info>
+                    <Info>A. Võ Nguyên Giáp</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Phở Cao Bằng</Info>
+                    <Info>B. Lê Đức Thọ</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Bánh áp chao</Info>
+                    <Info>C. Phạm Văn Đồng</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Bánh chưng gật</Info>
+                    <Info>D. Trường Chinh</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -77,22 +77,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>4. Lễ hội truyền thống độc đáo nào diễn ra hàng năm tại Cao Bằng thu hút đông đảo du khách?</Info>
+            <Info>Quân đội Pháp đã đầu hàng quân đội Việt Nam tại Điện Biên Phủ vào ngày nào?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Lễ hội Lồng Tông</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. Lễ hội Đền Mẫu Đồng Đăng</Info>
+                    <Info>A. 7/5/1954</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Lễ hội Chùa Hang</Info>
+                    <Info>B. 8/5/1954</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Lễ hội Hoa Tam Giác Mạch</Info>
+                    <Info>C. 9/5/1954</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>D. 10/5/1954</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -102,22 +102,47 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>5. Cao Bằng có bao nhiêu dân tộc sinh sống?</Info>
+            <Info>Sông nào chảy qua Điện Biên, góp phần làm nên địa hình hiểm trở cho chiến dịch Điện Biên Phủ?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. 6</Info>
+                    <Info>A. Sông Đà</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. 8</Info>
+                    <Info>B. Sông Hồng</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. 10</Info>
+                    <Info>C. Sông Mã</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>D. Sông Nậm Rốm</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>"Hòn ngọc" của du lịch Điện Biên với những di tích lịch sử, văn hóa độc đáo là:</Info>
+            <Answers>
+                <Answer>
+                    <Info>A. Mường Lay</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>B. Mường Thanh</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. 12</Info>
+                    <Info>C. Tuần Giáo</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>D. Điện Biên Đông</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -127,22 +152,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>6. Cao Bằng có địa hình như thế nào?</Info>
+            <Info>Lễ hội nào được tổ chức hàng năm tại Điện Biên để tưởng nhớ chiến thắng Điện Biên Phủ?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Đồng bằng</Info>
+                    <Info>A. Lễ hội hoa ban</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Núi cao</Info>
+                    <Info>B. Lễ hội đền Hùng</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>C. Lễ hội Gầu Tào</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Bờ biển</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. Núi xen kẽ đồng bằng</Info>
+                    <Info>D. Lễ hội Khai hạ</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -152,22 +177,47 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>7. Cao Bằng giáp ranh với những tỉnh thành nào?</Info>
+            <Info>Món ăn đặc sản nào nổi tiếng nhất tại Điện Biên?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Bắc Kạn, Thái Nguyên, Lạng Sơn, Quảng Ninh</Info>
+                    <Info>A. Thịt chua</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>B. Bánh cuốn</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>C. Xôi ngũ sắc</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>D. Pà pỉnh tộp</Info>
+                    <IsCorrect>true</IsCorrect>
+                </Answer>
+            </Answers>
+            <UseTimer>true</UseTimer>
+            <Timer>25</Timer>
+            <Type>Single</Type>
+            <AddScore>100</AddScore>
+        </Question>
+        <Question>
+            <Info>"Ngũ Động Bản Ôn" là di tích lịch sử gắn liền với truyền thuyết về:</Info>
+            <Answers>
+                <Answer>
+                    <Info>A. Chàng trai dũng cảm</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>B. Nàng tiên cá</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Tuyên Quang, Hà Giang, Yên Bái, Lào Cai</Info>
+                    <Info>C. Nàng tiên nữ</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Phú Thọ, Vĩnh Phúc, Hòa Bình, Ninh Bình</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình</Info>
+                    <Info>D. Chàng trai si tình</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -177,72 +227,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>8. Cao Bằng có sông nào chảy qua?</Info>
+            <Info>"Đồi A1" là địa điểm chiến lược quan trọng trong chiến dịch Điện Biên Phủ, được mệnh danh là:</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Sông Hồng</Info>
+                    <Info>A. "Cánh đồng chết"</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Sông Mã</Info>
+                    <Info>B. "Lò vôi"</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>C. "Hỏa ngục"</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Sông Cả</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. Sông Gianh</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-            </Answers>
-            <UseTimer>true</UseTimer>
-            <Timer>25</Timer>
-            <Type>Single</Type>
-            <AddScore>100</AddScore>
-        </Question>
-        <Question>
-            <Info>9. Danh nhân nào nổi tiếng gắn liền với mảnh đất Cao Bằng?</Info>
-            <Answers>
-                <Answer>
-                    <Info>A. Chủ tịch Hồ Chí Minh</Info>
-                    <IsCorrect>true</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. Đại tướng Võ Nguyên Giáp</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. Nhà thơ Tố Hữu</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. Nhà văn Nguyễn Tuân</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-            </Answers>
-            <UseTimer>true</UseTimer>
-            <Timer>25</Timer>
-            <Type>Single</Type>
-            <AddScore>100</AddScore>
-        </Question>
-        <Question>
-            <Info>10. Cao Bằng có bao nhiêu huyện, thành phố?</Info>
-            <Answers>
-                <Answer>
-                    <Info>A. 8</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. 10</Info>
-                    <IsCorrect>true</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. 12</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. 14</Info>
+                    <Info>D. "Tử địa"</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>

@@ -2,22 +2,22 @@
 <Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Questions>
         <Question>
-            <Info>1. Núi nào ở Cao Bằng được mệnh danh là "nóc nhà Đông Dương"?</Info>
+            <Info>1. Nơi đây được mệnh danh là "vựa trái cây" của Đồng bằng sông Cửu Long, nổi tiếng với những vườn trái cây trĩu quả quanh năm. Nơi nào ở Tiền Giang có vườn trái cây sum xuê nhất?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Phia Oắc</Info>
+                    <Info>Mỹ Tho</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Núi Lục Nam</Info>
+                    <Info>Cai Lậy</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Núi Mẫu Sơn</Info>
+                    <Info>Châu Thành</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Núi Ngọc Rồng</Info>
+                    <Info>Gò Công</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -27,22 +27,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>2. Di tích lịch sử nào ở Cao Bằng được UNESCO công nhận là Di sản văn hóa thế giới?</Info>
+            <Info>2. Biểu tượng cho sự sung túc và thịnh vượng của Tiền Giang là gì?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Khu di tích Pác Bó</Info>
+                    <Info>Chợ nổi Cai Lậy</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Khu du lịch sinh thái Đồng Tháp Mười</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Khu di tích ATK Định Hóa</Info>
+                    <Info>Chùa Vĩnh Tràng</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Khu di tích Tân Trào</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. Khu di tích Chiến trường Đồng Cam</Info>
+                    <Info>Cầu Rạch Miễu</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -52,22 +52,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>3. Cao Bằng nổi tiếng với đặc sản nào?</Info>
+            <Info>3. Di tích lịch sử nào tại Tiền Giang được UNESCO công nhận là Di sản văn hóa thế giới?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Bánh cuốn Cao Bằng</Info>
+                    <Info>Khu di tích khảo cổ học Óc Eo</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Phở Cao Bằng</Info>
+                    <Info>Chùa Vĩnh Tràng</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Bánh áp chao</Info>
+                    <Info>Nhà cổ Trại Hổi</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Bánh chưng gật</Info>
+                    <Info>Khu di tích Đồng Tháp Mười</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -77,22 +77,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>4. Lễ hội truyền thống độc đáo nào diễn ra hàng năm tại Cao Bằng thu hút đông đảo du khách?</Info>
+            <Info>4. Làng nghề truyền thống nào ở Tiền Giang nổi tiếng với những sản phẩm thủ công tinh xảo làm từ tre?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Lễ hội Lồng Tông</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. Lễ hội Đền Mẫu Đồng Đăng</Info>
+                    <Info>Làng đan đát Mỹ Tho</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Lễ hội Chùa Hang</Info>
+                    <Info>Làng gốm sứ Lái Thiêu</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Lễ hội Hoa Tam Giác Mạch</Info>
+                    <Info>Làng bánh tráng Gò Công</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Làng nón lá Đồng Tháp Mười</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -102,22 +102,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>5. Cao Bằng có bao nhiêu dân tộc sinh sống?</Info>
+            <Info>5. Món ăn nào là đặc sản trứ danh của Tiền Giang mà du khách không thể bỏ lỡ?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. 6</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. 8</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>C. 10</Info>
+                    <Info>Lẩu mắm cá linh</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. 12</Info>
+                    <Info>Bánh xèo hến</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Bánh canh Bến Tre</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Lẩu cua đồng</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -127,22 +127,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>6. Cao Bằng có địa hình như thế nào?</Info>
+            <Info>6. Loại trái cây nào được mệnh danh là "nữ hoàng" của Tiền Giang, nổi tiếng với vị ngọt thanh và hương thơm đặc trưng?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Đồng bằng</Info>
+                    <Info>Sầu riêng</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Núi cao</Info>
+                    <Info>Xoài cát Hòa Lộc</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Bờ biển</Info>
+                    <Info>Bưởi Năm Roi</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Núi xen kẽ đồng bằng</Info>
+                    <Info>Mận Rạch Miễu</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -152,22 +152,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>7. Cao Bằng giáp ranh với những tỉnh thành nào?</Info>
+            <Info>7. Lễ hội nào thu hút du khách thập phương đến với Tiền Giang mỗi năm vào tháng 8 âm lịch?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Bắc Kạn, Thái Nguyên, Lạng Sơn, Quảng Ninh</Info>
+                    <Info>Lễ hội hoa sen Đồng Tháp Mười</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Lễ hội trái cây Mỹ Tho</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Tuyên Quang, Hà Giang, Yên Bái, Lào Cai</Info>
+                    <Info>Lễ hội đền thờ Trạng Trình Nguyễn Bỉnh Khiêm</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Phú Thọ, Vĩnh Phúc, Hòa Bình, Ninh Bình</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>D. Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình</Info>
+                    <Info>Lễ hội cầu ngư Tháp Mười</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -177,22 +177,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>8. Cao Bằng có sông nào chảy qua?</Info>
+            <Info>8. Khu du lịch sinh thái nào ở Tiền Giang nổi tiếng với những cánh đồng sen bát ngát và hệ sinh thái đa dạng?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Sông Hồng</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. Sông Mã</Info>
+                    <Info>Khu du lịch sinh thái Đồng Tháp Mười</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Sông Cả</Info>
+                    <Info>Khu du lịch Mekong</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Sông Gianh</Info>
+                    <Info>Khu du lịch sinh thái Mỹ Tho</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Vườn quốc gia Tràm Chim</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -202,22 +202,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>9. Danh nhân nào nổi tiếng gắn liền với mảnh đất Cao Bằng?</Info>
+            <Info>9. Loại chim nào được xem là biểu tượng của Đồng bằng sông Cửu Long, có thể dễ dàng bắt gặp tại các khu vực hoang dã ở Tiền Giang?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. Chủ tịch Hồ Chí Minh</Info>
+                    <Info>Cò trắng</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>B. Đại tướng Võ Nguyên Giáp</Info>
+                    <Info>Hạc</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. Nhà thơ Tố Hữu</Info>
+                    <Info>Vịt trời</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. Nhà văn Nguyễn Tuân</Info>
+                    <Info>Bồ câu</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
@@ -227,22 +227,22 @@
             <AddScore>100</AddScore>
         </Question>
         <Question>
-            <Info>10. Cao Bằng có bao nhiêu huyện, thành phố?</Info>
+            <Info>10. Di sản văn hóa phi vật thể nào của Tiền Giang đã được Bộ Văn hóa, Thể thao và Du lịch công nhận là di sản quốc gia?</Info>
             <Answers>
                 <Answer>
-                    <Info>A. 8</Info>
-                    <IsCorrect>false</IsCorrect>
-                </Answer>
-                <Answer>
-                    <Info>B. 10</Info>
+                    <Info>Nghệ thuật đờn ca tài tử Nam Bộ</Info>
                     <IsCorrect>true</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>C. 12</Info>
+                    <Info>Hát bội</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
                 <Answer>
-                    <Info>D. 14</Info>
+                    <Info>Lễ hội đền thờ Trạng Trình Nguyễn Bỉnh Khiêm</Info>
+                    <IsCorrect>false</IsCorrect>
+                </Answer>
+                <Answer>
+                    <Info>Múa rối nước</Info>
                     <IsCorrect>false</IsCorrect>
                 </Answer>
             </Answers>
